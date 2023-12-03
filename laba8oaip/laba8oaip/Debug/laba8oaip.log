@@ -1,0 +1,19 @@
+﻿Сборка начата 07.12.2022 23:18:38.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\user\Desktop\LABS_OAIP\laba8oaip\laba8oaip\laba8oaip.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\laba8oaip.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         laba8oaip.vcxproj -> C:\Users\user\Desktop\LABS_OAIP\laba8oaip\Debug\laba8oaip.exe
+       FinalizeBuildStatus:
+         Файл "Debug\laba8oaip.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\laba8oaip.tlog\laba8oaip.lastbuildstate".
+     1>Сборка проекта "C:\Users\user\Desktop\LABS_OAIP\laba8oaip\laba8oaip\laba8oaip.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.16

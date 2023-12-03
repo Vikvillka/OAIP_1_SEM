@@ -1,0 +1,19 @@
+﻿Сборка начата 14.12.2022 22:28:32.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\user\Desktop\LABS_OAIP\laba10oaip\laba10oaip\laba10oaip.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\laba10oaip.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         laba10oaip.vcxproj -> C:\Users\user\Desktop\LABS_OAIP\laba10oaip\Debug\laba10oaip.exe
+       FinalizeBuildStatus:
+         Файл "Debug\laba10oaip.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\laba10oaip.tlog\laba10oaip.lastbuildstate".
+     1>Сборка проекта "C:\Users\user\Desktop\LABS_OAIP\laba10oaip\laba10oaip\laba10oaip.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.02

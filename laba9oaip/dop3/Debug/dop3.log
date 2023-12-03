@@ -1,0 +1,26 @@
+﻿Сборка начата 27.11.2022 20:14:08.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\user\Desktop\LABS_OAIP\laba9oaip\dop3\dop3.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\dop3.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt dop3.cpp
+         dop3.cpp
+     1>C:\Users\user\Desktop\LABS_OAIP\laba9oaip\dop3\dop3.cpp(7,9): warning C4101: ZeroMemory: неиспользованная локальная переменная
+     1>C:\Users\user\Desktop\LABS_OAIP\laba9oaip\dop3\dop3.cpp(14): error C4700: использована неинициализированная локальная переменная "n"
+     1>Сборка проекта "C:\Users\user\Desktop\LABS_OAIP\laba9oaip\dop3\dop3.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\Users\user\Desktop\LABS_OAIP\laba9oaip\dop3\dop3.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\user\Desktop\LABS_OAIP\laba9oaip\dop3\dop3.cpp(7,9): warning C4101: ZeroMemory: неиспользованная локальная переменная
+
+
+       "C:\Users\user\Desktop\LABS_OAIP\laba9oaip\dop3\dop3.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\user\Desktop\LABS_OAIP\laba9oaip\dop3\dop3.cpp(14): error C4700: использована неинициализированная локальная переменная "n"
+
+    Предупреждений: 1
+    Ошибок: 1
+
+Прошло времени 00:00:00.39

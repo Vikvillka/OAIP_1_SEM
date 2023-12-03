@@ -1,0 +1,33 @@
+﻿Сборка начата 03.10.2022 15:52:29.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\user\Desktop\лабы по ОАИП\laba4oaip\dop4.1oaip\dop4.1oaip.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (dop4.1oaip.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+         Создание каталога "Debug\dop4.1.tlog\".
+     1>InitializeBuildStatus:
+         Создание "Debug\dop4.1.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt 4.1.cpp
+         4.1.cpp
+     1>C:\Users\user\Desktop\лабы по ОАИП\laba4oaip\dop4.1oaip\4.1.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Desktop\лабы по ОАИП\laba4oaip\Debug\dop4.1.exe" /INCREMENTAL /ILK:"Debug\dop4.1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\Desktop\лабы по ОАИП\laba4oaip\Debug\dop4.1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Desktop\лабы по ОАИП\laba4oaip\Debug\dop4.1.lib" /MACHINE:X86 Debug\4.1.obj
+         dop4.1oaip.vcxproj -> C:\Users\user\Desktop\лабы по ОАИП\laba4oaip\Debug\dop4.1.exe
+       FinalizeBuildStatus:
+         Файл "Debug\dop4.1.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\dop4.1.tlog\dop4.1.lastbuildstate".
+     1>Сборка проекта "C:\Users\user\Desktop\лабы по ОАИП\laba4oaip\dop4.1oaip\dop4.1oaip.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\user\Desktop\лабы по ОАИП\laba4oaip\dop4.1oaip\dop4.1oaip.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект PrepareForBuild) -> 
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (dop4.1oaip.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+
+
+       "C:\Users\user\Desktop\лабы по ОАИП\laba4oaip\dop4.1oaip\dop4.1oaip.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\user\Desktop\лабы по ОАИП\laba4oaip\dop4.1oaip\4.1.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:01.07

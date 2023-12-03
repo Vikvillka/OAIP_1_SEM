@@ -1,0 +1,28 @@
+﻿Сборка начата 14.12.2022 23:00:57.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\user\Desktop\LABS_OAIP\laba11oaip\laba11oaip\laba11oaip.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\laba11oaip.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt 2.1.cpp
+         2.1.cpp
+     1>C:\Users\user\Desktop\LABS_OAIP\laba11oaip\laba11oaip\2.1.cpp(10,12): warning C4101: pab: неиспользованная локальная переменная
+     1>C:\Users\user\Desktop\LABS_OAIP\laba11oaip\laba11oaip\2.1.cpp(11,9): warning C4101: nB: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Desktop\LABS_OAIP\laba11oaip\Debug\laba11oaip.exe" /INCREMENTAL /ILK:"Debug\laba11oaip.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\Desktop\LABS_OAIP\laba11oaip\Debug\laba11oaip.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Desktop\LABS_OAIP\laba11oaip\Debug\laba11oaip.lib" /MACHINE:X86 Debug\2.1.obj
+         laba11oaip.vcxproj -> C:\Users\user\Desktop\LABS_OAIP\laba11oaip\Debug\laba11oaip.exe
+       FinalizeBuildStatus:
+         Файл "Debug\laba11oaip.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\laba11oaip.tlog\laba11oaip.lastbuildstate".
+     1>Сборка проекта "C:\Users\user\Desktop\LABS_OAIP\laba11oaip\laba11oaip\laba11oaip.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\user\Desktop\LABS_OAIP\laba11oaip\laba11oaip\laba11oaip.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\user\Desktop\LABS_OAIP\laba11oaip\laba11oaip\2.1.cpp(10,12): warning C4101: pab: неиспользованная локальная переменная
+         C:\Users\user\Desktop\LABS_OAIP\laba11oaip\laba11oaip\2.1.cpp(11,9): warning C4101: nB: неиспользованная локальная переменная
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:00.58
